@@ -1,5 +1,5 @@
 ---
-title: "Why"
+title: Activities
 bg: orange
 color: black
 fa-icon: check-square-o
