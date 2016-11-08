@@ -35,3 +35,8 @@ fa-icon: check-square-o
 * [**Conditional Probability HW**](https://teacher.desmos.com/activitybuilder/custom/581ba893fbd90cec052883d8)
 * [**Conditional Probability Practice**](https://teacher.desmos.com/activitybuilder/custom/581b9501cc76310206af9441)
 
+## Expected Value (Probability and Statistics 4)
+* [**Expected Value Pre-Class**](https://teacher.desmos.com/activitybuilder/custom/581cab8bd991df0306f7eea4)
+* [**Expected Value HW**](https://teacher.desmos.com/activitybuilder/custom/58220a0d02dcc7510cf161bc)
+* [**Expected Value Practice**](https://teacher.desmos.com/activitybuilder/custom/582204d2f21974e505ed4145)
+
