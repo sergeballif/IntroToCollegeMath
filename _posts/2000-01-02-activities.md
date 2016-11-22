@@ -40,3 +40,8 @@ fa-icon: check-square-o
 * [**Expected Value HW**](https://teacher.desmos.com/activitybuilder/custom/58220a0d02dcc7510cf161bc)
 * [**Expected Value Practice**](https://teacher.desmos.com/activitybuilder/custom/582204d2f21974e505ed4145)
 
+## Intro to Statistics (Probability and Statistics 5)
+* [**Intro to Statistics Pre-class**](https://teacher.desmos.com/activitybuilder/custom/5822609df404b9e90545c275)
+* [**Intro to Statistics HW**](https://teacher.desmos.com/activitybuilder/custom/5823929f37046bf30bab102b)
+* [**Intro to Statistics Practice**](https://teacher.desmos.com/activitybuilder/custom/58348e609a66d9850eeed728)
+
