@@ -45,3 +45,13 @@ fa-icon: check-square-o
 * [**Intro to Statistics HW**](https://teacher.desmos.com/activitybuilder/custom/5823929f37046bf30bab102b)
 * [**Intro to Statistics Practice**](https://teacher.desmos.com/activitybuilder/custom/58348e609a66d9850eeed728)
 
+## Normal Curves (Probability and Statistics 6)
+* [**Normal Curves Pre-class**](https://teacher.desmos.com/activitybuilder/custom/5834dfaabe395cdc0afbf36e)
+* [**Normal Curves HW**](https://teacher.desmos.com/activitybuilder/custom/583e07e8323540bd0a0f4300)
+* [**Normal Curves Practice**](https://teacher.desmos.com/activitybuilder/custom/583e10331907ba87088493ba)
+
+## Fraud Detection (Probability and Statistics 7)
+* [**Fraud Detection Pre-class**](https://teacher.desmos.com/activitybuilder/custom/584352efff4bccdf05c3b70a)
+* [**Fraud Detection HW**](https://teacher.desmos.com/activitybuilder/custom/58519fae6d7385d806a86d55)
+* [**Fraud Detection Practice**](https://teacher.desmos.com/activitybuilder/custom/5851c3ff65b12a7915872159)
+
