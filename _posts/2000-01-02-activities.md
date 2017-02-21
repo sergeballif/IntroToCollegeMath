@@ -55,3 +55,17 @@ fa-icon: check-square-o
 * [**Fraud Detection HW**](https://teacher.desmos.com/activitybuilder/custom/58519fae6d7385d806a86d55)
 * [**Fraud Detection Practice**](https://teacher.desmos.com/activitybuilder/custom/5851c3ff65b12a7915872159)
 
+## Credit (Consumer Mathematics 3)
+* [**Credit Pre-class**](https://teacher.desmos.com/activitybuilder/custom/587006ba9b553efe1634fc4b)
+* [**Credit HW**](https://teacher.desmos.com/activitybuilder/custom/58878fddf38962a7059cdb14)
+* [**Credit Practice**](https://teacher.desmos.com/activitybuilder/custom/5887d9daa89324200cc76631)
+
+## Mortgages (Consumer Mathematics 4)
+* [**Mortgages Pre-class**](https://teacher.desmos.com/activitybuilder/custom/58a3763a978354aa058f3c52)
+* [**Mortgages HW**](https://teacher.desmos.com/activitybuilder/custom/58a384a01f7ffda605889fb1)
+* [**Mortgages Practice**](https://teacher.desmos.com/activitybuilder/custom/58a3832bb351fea805f1a167)
+
+## Inflation (Consumer Mathematics 4)
+* [**Inflation Pre-class**](https://teacher.desmos.com/activitybuilder/custom/58a63549259084a70534a9cc)
+* [**Inflation HW**](https://teacher.desmos.com/activitybuilder/custom/58a640d5d4a2ccd409824e91)
+* [**Inflation Practice**](https://teacher.desmos.com/activitybuilder/custom/58a642cec6ac27d509d3d7e3)
