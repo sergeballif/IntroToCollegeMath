@@ -65,7 +65,12 @@ fa-icon: check-square-o
 * [**Mortgages HW**](https://teacher.desmos.com/activitybuilder/custom/58a384a01f7ffda605889fb1)
 * [**Mortgages Practice**](https://teacher.desmos.com/activitybuilder/custom/58a3832bb351fea805f1a167)
 
-## Inflation (Consumer Mathematics 4)
+## Inflation (Consumer Mathematics 5)
 * [**Inflation Pre-class**](https://teacher.desmos.com/activitybuilder/custom/58a63549259084a70534a9cc)
 * [**Inflation HW**](https://teacher.desmos.com/activitybuilder/custom/58a640d5d4a2ccd409824e91)
 * [**Inflation Practice**](https://teacher.desmos.com/activitybuilder/custom/58a642cec6ac27d509d3d7e3)
+
+## Intro to Functions (Algebra and Modeling 1)
+* [**Intro to Functions Pre-class**](https://teacher.desmos.com/activitybuilder/custom/58af5b0274a5b7870b06ce87)
+* [**Intro to Functions HW**](https://teacher.desmos.com/activitybuilder/custom/58af66b41e445890087865f5)
+* [**Intro to Functions Practice**](https://teacher.desmos.com/activitybuilder/custom/58af668c2513a7c50cef6293)
