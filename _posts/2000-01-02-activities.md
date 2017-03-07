@@ -74,3 +74,9 @@ fa-icon: check-square-o
 * [**Intro to Functions Pre-class**](https://teacher.desmos.com/activitybuilder/custom/58af5b0274a5b7870b06ce87)
 * [**Intro to Functions HW**](https://teacher.desmos.com/activitybuilder/custom/58af66b41e445890087865f5)
 * [**Intro to Functions Practice**](https://teacher.desmos.com/activitybuilder/custom/58af668c2513a7c50cef6293)
+
+## Algebra of Functions (Algebra and Modeling 2)
+* [**Algebra of Functions Pre-class**](https://teacher.desmos.com/activitybuilder/custom/58b4ca8e6594c26d0b10381f)
+* [**Algebra of Functions HW**](https://teacher.desmos.com/activitybuilder/custom/58ba024c1e2bd015e9fd7a19)
+* [**Algebra of Functions Practice**](https://teacher.desmos.com/activitybuilder/custom/58ba01c17147310aeb246d79)
+
