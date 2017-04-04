@@ -80,3 +80,13 @@ fa-icon: check-square-o
 * [**Algebra of Functions HW**](https://teacher.desmos.com/activitybuilder/custom/58ba024c1e2bd015e9fd7a19)
 * [**Algebra of Functions Practice**](https://teacher.desmos.com/activitybuilder/custom/58ba01c17147310aeb246d79)
 
+## Parent Functions (Algebra and Modeling 3)
+* [**Parent Functions Pre-class**](https://teacher.desmos.com/activitybuilder/custom/58d064452a30fa7777b528fb)
+* [**Parent Functions HW**](https://teacher.desmos.com/activitybuilder/custom/58d14fdf20694406136c9456)
+* [**Parent Functions Practice**](https://teacher.desmos.com/activitybuilder/custom/58d1503520694406136c9576)
+
+## More Parent Functions (Algebra and Modeling 4)
+* [**More Parent Functions Pre-class**](https://teacher.desmos.com/activitybuilder/custom/58e2aad608f97310d166e1ea)
+* [**More Parent Functions HW**](https://teacher.desmos.com/activitybuilder/custom/58e3c9d07ac7ed0616d22200)
+* [**More Parent Functions Practice**](https://teacher.desmos.com/activitybuilder/custom/58e3ca989c706d0b8766c34a)
+
