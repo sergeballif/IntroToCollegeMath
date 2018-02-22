@@ -90,3 +90,7 @@ fa-icon: check-square-o
 * [**More Parent Functions HW**](https://teacher.desmos.com/activitybuilder/custom/58e3c9d07ac7ed0616d22200)
 * [**More Parent Functions Practice**](https://teacher.desmos.com/activitybuilder/custom/58e3ca989c706d0b8766c34a)
 
+## Transformations (Algebra and Modeling 5)
+* [**Transformations Pre-class**](https://teacher.desmos.com/activitybuilder/custom/58ed41bd8c1496060ffcbaf0)
+* [**Transformations HW**](https://teacher.desmos.com/activitybuilder/custom/5903683fc4cf6d0c44e59277)
+
