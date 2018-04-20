@@ -93,4 +93,8 @@ fa-icon: check-square-o
 ## Transformations (Algebra and Modeling 5)
 * [**Transformations Pre-class**](https://teacher.desmos.com/activitybuilder/custom/58ed41bd8c1496060ffcbaf0)
 * [**Transformations HW**](https://teacher.desmos.com/activitybuilder/custom/5903683fc4cf6d0c44e59277)
+* [**Transformations Practice**](https://teacher.desmos.com/activitybuilder/custom/5ada1074d2cf6d08abbb2a3e)
+
+## Transformations II (Algebra and Modeling 6)
+* [**Des-Monster HW and Practice**](https://teacher.desmos.com/activitybuilder/custom/5ada599e5d6664555e211ad2)
 
