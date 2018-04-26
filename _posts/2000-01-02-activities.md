@@ -98,3 +98,14 @@ fa-icon: check-square-o
 ## Transformations II (Algebra and Modeling 6)
 * [**Des-Monster HW and Practice**](https://teacher.desmos.com/activitybuilder/custom/5ada599e5d6664555e211ad2)
 
+## Modeling (Algebra and Modeling 7)
+* [**Modeling Pre-class**](https://teacher.desmos.com/activitybuilder/custom/5961284b36eb450a65fcbf56)
+* Modeling HW
+* [**Modeling Practice**](https://teacher.desmos.com/activitybuilder/custom/5adf8c0889515a08f6f25dc6)
+
+## Optimization (Algebra and Modeling 8)
+* [**Optimization Pre-class**](https://teacher.desmos.com/activitybuilder/custom/597660f52448b154dd8c7f7a)
+* Optimization HW
+* Optimization Practice
+
+
