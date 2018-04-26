@@ -100,7 +100,7 @@ fa-icon: check-square-o
 
 ## Modeling (Algebra and Modeling 7)
 * [**Modeling Pre-class**](https://teacher.desmos.com/activitybuilder/custom/5961284b36eb450a65fcbf56)
-* Modeling HW
+* [**Modeling HW**](https://teacher.desmos.com/activitybuilder/custom/5ae1fddafc4f3551ae5b88e0)
 * [**Modeling Practice**](https://teacher.desmos.com/activitybuilder/custom/5adf8c0889515a08f6f25dc6)
 
 ## Optimization (Algebra and Modeling 8)
