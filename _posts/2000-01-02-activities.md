@@ -106,6 +106,6 @@ fa-icon: check-square-o
 ## Optimization (Algebra and Modeling 8)
 * [**Optimization Pre-class**](https://teacher.desmos.com/activitybuilder/custom/597660f52448b154dd8c7f7a)
 * Optimization HW
-* Optimization Practice
+* [**Optimization Practice**](https://teacher.desmos.com/activitybuilder/custom/5ae24f23f926dc5bb3f4876e)
 
 
