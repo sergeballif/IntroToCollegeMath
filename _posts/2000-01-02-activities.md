@@ -42,7 +42,7 @@ fa-icon: check-square-o
 
 ## Intro to Statistics (Probability and Statistics 5)
 * [**Intro to Statistics Pre-class**](https://teacher.desmos.com/activitybuilder/custom/5822609df404b9e90545c275)
-* [**Intro to Statistics HW**](https://teacher.desmos.com/activitybuilder/custom/5823929f37046bf30bab102b)
+* [**Intro to Statistics HW**](https://teacher.desmos.com/activitybuilder/custom/58435274fa97a6a60618e616)
 * [**Intro to Statistics Practice**](https://teacher.desmos.com/activitybuilder/custom/58348e609a66d9850eeed728)
 
 ## Normal Curves (Probability and Statistics 6)
